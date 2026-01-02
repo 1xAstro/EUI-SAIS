@@ -80,7 +80,7 @@ For a cross-platform build, you can use the `CMakeLists.txt` file.
 * [Mohamed Nadher (GR1M)](https://github.com/GR1M-real)  - Developer
 * Norhan El Gamel        - Developer
 * Karim Ahmed            - Developer
-* Mohamed El Gebali      - Developer
+* [Mohamed El Gebali](https://github.com/M-ElGebali)  - Developer
 
 
 ## Project Structure
