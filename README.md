@@ -76,7 +76,7 @@ For a cross-platform build, you can use the `CMakeLists.txt` file.
 
 ## Team Members
 * [Ahmed Samy(Astro1x)] - Developer
-* [ADD YOUR NAME] - Developer
+* [Ibrahim Mohamed Farouk] - Developer
 * [ADD YOUR NAME] - Developer
 * [ADD YOUR NAME] - Developer
 * [GR1M] - Developer
