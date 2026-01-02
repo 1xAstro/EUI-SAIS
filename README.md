@@ -77,7 +77,7 @@ For a cross-platform build, you can use the `CMakeLists.txt` file.
 ## Team Members
 * Ahmed Samy (Astro1x)   - Developer
 * Ibrahim Hikal          - Developer
-* GR1M                   - Developer
+* Mohamed Nadher (GR1M)  - Developer
 * Norhan El Gamel        - Developer
 * Karim Ahmed            - Developer
 * Mohamed El Gebali      - Developer
