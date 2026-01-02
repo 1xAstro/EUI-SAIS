@@ -87,13 +87,13 @@ The repository is organized to separate data, core logic, and UI functions.
 
 ```
 └── eui-sais/
-    ├── DataBases/              # Contains CSV databases and the course catalog txt file
-    ├── Functions_Files/        # Main source code directory
-    │   ├── Navigation_Functions/ # Handles UI screens (login, dashboards)
-    │   └── User_Functions/       # Core business logic for users
+    ├── DataBases/                  # Contains CSV databases and the course catalog txt file
+    ├── Functions_Files/            # Main source code directory
+    │   ├── Navigation_Functions/   # Handles UI screens (login, dashboards)
+    │   └── User_Functions/         # Core business logic for users
     │       ├── Admin_Functions/    # Functions exclusive to administrators
     │       └── Student_Functions/  # Functions exclusive to students
-    ├── main.c                  # Main entry point of the application
-    ├── RUN.bat                 # Windows build and run script
-    └── CMakeLists.txt          # CMake build configuration file
+    ├── main.c                      # Main entry point of the application
+    ├── RUN.bat                     # Windows build and run script
+    └── CMakeLists.txt              # CMake build configuration file
 
