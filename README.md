@@ -87,3 +87,4 @@ The repository is organized to separate data, core logic, and UI functions.
     ├── main.c                  # Main entry point of the application
     ├── RUN.bat                 # Windows build and run script
     └── CMakeLists.txt          # CMake build configuration file
+
