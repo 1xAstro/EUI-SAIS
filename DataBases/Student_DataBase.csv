@@ -1,0 +1,13 @@
+ID,Password,Name,Passed Courses,Registered Courses,Requested Courses
+24-101453,1772006,Ibrahim Mohamed Farouk,HUM011-PHM011-PHM012,HUM012,None
+24-101472,2792007,Youssef Moataz,None,ENG011-PHM011-PHM031,None
+24-101229,default5,Ahmed Samy Nassar,CSE021-HUM011,PHM031-ENG011-PHM011,None
+24-101456,default5,Test Student,None,HUM011-PHM011,None
+25-101001,default,Test1,None,None,None
+25-101002,default,test2,None,None,None
+25-101003,default,test3,None,None,None
+25-101004,default,Random Year 1 Student,None,None,None
+25-101005,default,Metwally El Zaafarany,None,None,None
+25-101006,default5,Mohamed Azali,None,None,None
+25-101007,mahmoud001,Mahmoud Samy Nassar,PHM011,None,None
+25-101008,mayteenomak,Hoda Mousa,ENG011,CSE021,None
