@@ -75,12 +75,13 @@ For a cross-platform build, you can use the `CMakeLists.txt` file.
 
 
 ## Team Members
-* [Ahmed Samy(Astro1x)] - Developer
-* [Ibrahim Mohamed Farouk] - Developer
-* [ADD YOUR NAME] - Developer
-* [ADD YOUR NAME] - Developer
-* [GR1M] - Developer
-* [Norhan El Gamel] - Developer
+* Ahmed Samy (Astro1x)   - Developer
+* Ibrahim Hikal          - Developer
+* GR1M                   - Developer
+* Norhan El Gamel        - Developer
+* Karim Ahmed            - Developer
+* Mohamed El Gebali      - Developer
+
 
 ## Project Structure
 The repository is organized to separate data, core logic, and UI functions.
