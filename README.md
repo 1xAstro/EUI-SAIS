@@ -73,6 +73,15 @@ For a cross-platform build, you can use the `CMakeLists.txt` file.
     ```
 5.  Run the executable from the build directory.
 
+
+## Team Members
+* [Ahmed Samy(Astro1x)] - Developer
+* [ADD YOUR NAME] - Developer
+* [ADD YOUR NAME] - Developer
+* [ADD YOUR NAME] - Developer
+* [GR1M] - Developer
+* [Norhan El Gamel] - Developer
+
 ## Project Structure
 The repository is organized to separate data, core logic, and UI functions.
 
@@ -88,10 +97,3 @@ The repository is organized to separate data, core logic, and UI functions.
     ├── RUN.bat                 # Windows build and run script
     └── CMakeLists.txt          # CMake build configuration file
 
-## Team Members
-* [Ahmed Samy(Astro1x)] - Developer
-* [ADD YOUR NAME] - Developer
-* [ADD YOUR NAME] - Developer
-* [ADD YOUR NAME] - Developer
-* [GR1M] - Developer
-* [Norhan El Gamel] - Developer
