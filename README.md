@@ -21,7 +21,7 @@ The system provides two distinct interfaces based on user authentication:
 - **Secure Login:** Administrators authenticate using their email and password from `DataBases/Admin_DataBase.csv`.
 - **Request Management:** Admins can review and either approve or deny pending course registration requests submitted by students.
 - **Student Record Management:** Admins can manually add passed courses to a student's record or add new students to the system. The system features an automatic ID generator for new students based on the current year and the last assigned ID.
-
+  
 ## Technical Details
 
 -   **Data Storage:** User credentials and academic records are stored in simple CSV files (`Student_DataBase.csv`, `Admin_DataBase.csv`).
